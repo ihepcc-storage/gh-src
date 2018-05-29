@@ -1,6 +1,6 @@
 ---
-title: weekly-meeting-20180525
-date: 2018-05-29 09:46:32
+title: weekly meeting 20180525
+date: 2018-05-25 14:30:00
 tags: weekly meeting
 ---
 
